@@ -1,6 +1,5 @@
 # 🍺 Install Homebrew on macOS
 
-![Homebrew Banner](./homebrew-banner.png)
 
 **Homebrew** is the missing package manager for macOS. With just one command, you can install thousands of useful tools, libraries, and applications — all from the Terminal.
 
